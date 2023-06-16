@@ -2,4 +2,5 @@
 
 Hi, this is going to be the exam project for a seminar.
 
-- BP1
+Ideas:
+- piano music used for generative art 
